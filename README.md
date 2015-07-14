@@ -1,6 +1,11 @@
-PythonLectures
+Parallel Computing with IPython
 ==============
 
-Various One-off Lectures on Python
 
-These notebooks can be previewed on [nbviewer](http://nbviewer.ipython.org/github/jakevdp/PythonLectures/tree/master/).
+
+Forked from [jakevdp/PythonLectures](jakevdp/PythonLectures).
+
+[Lecture here](http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/21_IPythonParallel).
+
+More stuff:
+http://messipiao.github.io/blog/2015/01/07/ipython-parallel-computing/
